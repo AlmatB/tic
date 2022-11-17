@@ -8,7 +8,7 @@ Tik-Toc-Toe
 <!-- ![Tik-Toc-Toe](tik/res/tik.png) -->
 <!-- This section is HTML -->
 <p align=center>
-<img src="tik/res/tik.png" alt="drawing" width="200"/>
+<img src="res/tik.png" alt="drawing" width="200"/>
 </p>
 
 ## Usage
